@@ -9,6 +9,23 @@ function Square(props) {
     </button>
   );
 }
+// var x = 0;
+// let y = 0;
+// const z = 0;
+//
+// const nums = [1,2,3];
+// const double = nums.map(x => x*2); //[2,4,6]
+//
+// for (var i = 0; i < array.length; i++) {
+//   array[i]
+// }
+//
+// for (let i of array) {
+//   i
+// }
+//
+// onClick = {function() {alert('click');}}
+// onClick={() => alert('click')}
 
 // class Square extends React.Component {
 //   render() {
